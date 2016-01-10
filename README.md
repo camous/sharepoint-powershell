@@ -1,4 +1,5 @@
 # sharepoint-powershell
+http://stuffandtacos.carfup.com/2016/01/10/quickly-get-and-update-user-profile-properties/
 Few powershell scripts for day to day operations
 
 ### User Profile
