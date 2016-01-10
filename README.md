@@ -2,7 +2,7 @@
 Few powershell scripts for day to day operations
 
 ### User Profile
-* Get-SPUserProfileProperty.ps1
+#### Get-SPUserProfileProperty.ps1
 
 Quick helper for retrieving basic user profile information without the need to re-enter each time mysite url or account (claims ?) format
 
@@ -17,7 +17,7 @@ Quick helper for retrieving basic user profile information without the need to r
   * AccountFormat : overriding default account format
   * Property : property to retrieve (eg PictureUrl), if not provided, return all properties
 
-* Set-SPUserProfileProperty.ps1
+#### Set-SPUserProfileProperty.ps1
 
 Quick helper for setting basic user profile information without the need to re-enter each time mysite url or account (claims ?) format
 
